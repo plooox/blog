@@ -1,6 +1,6 @@
 ---
 title: "[NLP] 1.프레임워크와 라이브러리"
-date: 2021-08-15T12:59:18+09:00
+date: 2021-08-15T12:28:18+09:00
 description: "프로젝트를 위한 NLP 공부"
 draft: false
 tags: ["NLP"]
