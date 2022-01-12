@@ -127,7 +127,7 @@ theme = "LoveIt"
       #  title shown in home page (HTML format is supported)
       title = "Plox's blog"
       # subtitle shown in home page
-      subtitle = "Hello, I'm Insu Kim :)"
+      subtitle = "Hello, I'm plox :)"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -314,7 +314,7 @@ theme = "LoveIt"
       unsafe = true
   # Table Of Contents settings
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 6
 
 # Author config
