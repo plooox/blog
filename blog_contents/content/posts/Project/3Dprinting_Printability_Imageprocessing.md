@@ -2,7 +2,7 @@
 title: "[Project] 머신러닝을 이용한 3D프린팅의 printability 최적조건 - 이미지 처리"
 date: 2022-01-13T17:16:04+09:00
 description: "졸업논문 프로젝트(1)"
-draft: true
+draft: false
 tags: ["3D printing", "ImageProcessing"]
 categories: ["project"]
 
