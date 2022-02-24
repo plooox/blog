@@ -31,10 +31,6 @@ comment:
 ### Heading 3
 #### Heading 4
 
-```python
-print("Hello World!")
-```
-
 # Quotation Style
 {{< admonition >}} A note banner {{< /admonition >}}
 
